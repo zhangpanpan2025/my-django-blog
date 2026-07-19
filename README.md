@@ -31,5 +31,4 @@ python manage.py runserver
 
 大三学生，信息与计算科学专业，正在寻找Python后端开发实习岗位。
 
-GitHub: https://github.com/zhangpanpan2025
 邮箱:226497478@qq.com
